@@ -1,2 +1,2 @@
 # Linear-regression-from-scratch
-This file is a Jupyter notebook written in Python that has implemented linear regression
+This file is a Jupyter notebook written in Python that has implemented linear regression from scratch using mathematical calculations. It likely includes code for defining the linear regression model, functions for calculating the parameters of the model, and possibly visualization or analysis of the results. The notebook may also include explanations and derivations of the mathematical concepts used in the implementation.
